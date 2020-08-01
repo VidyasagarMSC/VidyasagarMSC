@@ -1,5 +1,5 @@
 Hello there 👋 !!!
-This is Vidyasagar Machupalli. 
+This is **Vidyasagar Machupalli**. 
 
 :computer: A polyglot and pragmatic coder
 
@@ -10,22 +10,8 @@ This is Vidyasagar Machupalli.
 :camera: Novice Photographer. 
 
 To know more about me and to connect :electric_plug:, please do check my [website](https://vidyasagarmsc.github.io) made with lots of :heart: and code
-<!--
-**VidyasagarMSC/VidyasagarMSC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning Go Lang
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---> 
-
-[![](/vidyasagarmsc.gif)](https://vidyasagarmsc.github.io)
+<img src="/vidyasagarmsc.gif" width=900></img>
 
 ## Stats
 <div>
