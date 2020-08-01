@@ -1,9 +1,10 @@
-Hello there 👋 !!! How are you doing today?
+> :construction_worker: Work in progress...
+#### Hello there 👋 !!! How are you doing today?
 
 ## :raised_hand: About Me
 This is **Vidyasagar Machupalli**. 
 
-:computer: A polyglot and pragmatic coder
+🧑🏽‍💻 A polyglot and pragmatic coder
 
 :loudspeaker: Witty speaker
 
@@ -17,7 +18,7 @@ To know more about me and to connect :electric_plug:, please do check my [websit
 
 [<img src="/vidyasagarmsc_hd.gif" width=750></img>](https://vidyasagarmsc.github.io)
 
-:warning: gif looks pixelated due to compression ;) 
+:warning: gif looks pixelated due to compression :wink:
 
 ## 🧠 Loading...
 
