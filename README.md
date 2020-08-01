@@ -1,4 +1,6 @@
-Hello there 👋 !!!
+Hello there 👋 !!! How are you doing today?
+
+## :raised_hand: About Me
 This is **Vidyasagar Machupalli**. 
 
 :computer: A polyglot and pragmatic coder
@@ -7,13 +9,25 @@ This is **Vidyasagar Machupalli**.
 
 :pencil2: Technical Writer aka Blogger
 
-:camera: Novice Photographer. 
+:books: Constant learner
 
-To know more about me and to connect :electric_plug:, please do check my [website](https://vidyasagarmsc.github.io) made with lots of :heart: and code
+:camera: Novice Photographer
 
-<img src="/vidyasagarmsc.gif" width=900></img>
+To know more about me and to connect :electric_plug:, please do check my [website](https://vidyasagarmsc.github.io) made with lots of :heart:, sweat, and code
 
-## Stats
+[<img src="/vidyasagarmsc_hd.gif" width=750></img>](https://vidyasagarmsc.github.io)
+
+:warning: gif looks pixelated due to compression ;) 
+
+## 🧠 Loading...
+
+:robot: AI
+
+:bar_chart: Data Science
+
+⚛️ Quantum
+
+## :arrow_up: Stats
 <div>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VidyasagarMSC&theme=default" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=VidyasagarMSC&theme=default" />
