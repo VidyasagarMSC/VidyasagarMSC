@@ -16,7 +16,7 @@ This is **Vidyasagar Machupalli**.
 
 To know more about me and to connect :electric_plug:, please do check my [website](https://vidyasagarmsc.github.io) made with lots of :heart:, sweat, and code
 
-[<img src="/vidyasagarmsc_hd.gif" width=750></img>](https://vidyasagarmsc.github.io)
+[<img src="vidyasagarmsc_hd.gif" width=750></img>](https://vidyasagarmsc.github.io)
 
 :warning: gif looks pixelated due to compression :wink:
 
