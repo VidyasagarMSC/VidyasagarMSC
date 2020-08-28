@@ -1,6 +1,6 @@
-#### Hello there 👋 !!! How are you doing today?
+## Hello there 👋 !!! How are you doing today?
 
-## :raised_hand: About Me
+### :raised_hand: About Me
 This is **Vidyasagar Machupalli**. 
 
 🧑🏽‍💻 A polyglot and pragmatic coder
@@ -19,7 +19,7 @@ To know more about me and to connect :electric_plug:, please do check my [websit
 
 :warning: gif looks pixelated due to compression :wink:
 
-## 🧠 Loading...
+### 🧠 Loading...
 
 :robot: AI
 
@@ -27,7 +27,7 @@ To know more about me and to connect :electric_plug:, please do check my [websit
 
 ⚛️ Quantum
 
-## :arrow_up: Stats
+### :arrow_up: Stats
 <div>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VidyasagarMSC&theme=default" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=VidyasagarMSC&theme=default" />
