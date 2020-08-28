@@ -1,4 +1,3 @@
-> :construction_worker: Work in progress...
 #### Hello there 👋 !!! How are you doing today?
 
 ## :raised_hand: About Me
