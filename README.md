@@ -13,11 +13,7 @@ This is **Vidyasagar Machupalli**.
 
 :camera: Novice Photographer
 
-To know more about me and to connect :electric_plug:, please do check my [website](https://vidyasagarmsc.github.io) made with lots of :heart:, sweat, and code
-
-[<img src="https://github.com/VidyasagarMSC/VidyasagarMSC/blob/master/vidyasagarmsc_hd.gif" width=750></img>](https://vidyasagarmsc.github.io)
-
-:warning: gif looks pixelated due to compression :wink:
+> To know more about me and to connect :electric_plug:, please do check my [website](https://vidyasagarmsc.github.io) made with lots of :heart:, sweat, and code
 
 ### 🧠 Loading...
 
