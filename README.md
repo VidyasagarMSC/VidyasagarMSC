@@ -15,6 +15,8 @@ This is **Vidyasagar Machupalli**.
 
 :camera: Novice Photographer
 
+<hr></hr>
+
 ### 🧠 Loading...
 
 :robot: AI
@@ -23,11 +25,15 @@ This is **Vidyasagar Machupalli**.
 
 ⚛️ Quantum
 
+<hr></hr>
+
 ### :arrow_up: Stats
 <div>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VidyasagarMSC&theme=default" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=VidyasagarMSC&theme=default" />
 </div>
+
+<hr></hr>
 
 ### 🔗 So.cl
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=github&logoColor=white)](https://vidyasagarmsc.github.io)
