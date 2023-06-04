@@ -20,11 +20,11 @@ This is **Vidyasagar Machupalli**.
 
 ### 🧠 Loading...
 
-:robot: AI
+:robot: AI - [Awesome-AI](https://github.com/VidyasagarMSC/Awesome-AI)
 
-:bar_chart: Data Science
+:bar_chart: Data Science - [Awesome-DS](https://github.com/VidyasagarMSC/Awesome-DS) 
 
-⚛️ Quantum
+⚛️ Quantum - [Awesome-Quantum](https://github.com/VidyasagarMSC/Awesome-Quantum)
 
 <hr></hr>
 
