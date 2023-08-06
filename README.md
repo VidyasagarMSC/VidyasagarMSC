@@ -6,9 +6,9 @@
 ### :raised_hand: About Me
 This is **Vidyasagar Machupalli**. 
 
-🧑🏽‍💻 A polyglot and pragmatic coder
+🧑🏽‍💻 Polyglot and Pragmatic Programmer
 
-:loudspeaker: Witty speaker
+:loudspeaker: International speaker
 
 :pencil2: Technical Writer aka Blogger
 
